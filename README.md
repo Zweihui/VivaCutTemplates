@@ -14,11 +14,25 @@
 - [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
 
 <!-- Plugin description -->
-This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
+# VivaCutTemplates
+[GitHub](https://github.com/Zweihui/VivaCutTemplates)
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
+[Issues](https://github.com/Zweihui/VivaCutTemplates/issues)
 
-To keep everything working, do not remove `<!-- ... -->` sections. 
+## 自动生成VivaCut项目的模板代码
+
+
+## 使用方法：
+
+* 右键点击想要生成的代码的包，点击New
+
+* 然后点击Other
+
+*
+* 可以看到VivaCut开头的三个模板，点击需要的模板即可
+
+![avatar](https://github.com/Zweihui/VivaCutTemplates/blob/main/imge/description.png)
+
 <!-- Plugin description end -->
 
 ## Installation

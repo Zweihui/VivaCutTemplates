@@ -3,5 +3,5 @@
 # VivaCutTemplates Changelog
 
 ## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+### version 0.0.1
+- 支持创建Activity、StageView和BoardView
