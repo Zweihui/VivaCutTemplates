@@ -4,4 +4,4 @@
 
 ## [Unreleased]
 ### version 0.0.1
-- 支持创建Activity、StageView和BoardView
+- Support the creation of Activity, StageView and BoardView
