@@ -19,19 +19,18 @@
 
 [Issues](https://github.com/Zweihui/VivaCutTemplates/issues)
 
-## 自动生成VivaCut项目的模板代码
+## Automatically generate template code for VivaCut project
 
 
-## 使用方法：
+## Instructions:
 
-* 右键点击想要生成的代码的包，点击New
+* Right-click the package of the code you want to generate, and click New
 
-* 然后点击Other
+* Then click Other
 
 *
-* 可以看到VivaCut开头的三个模板，点击需要的模板即可
+* You can see the three templates at the beginning of VivaCut, just click the template you need
 
-![avatar](https://github.com/Zweihui/VivaCutTemplates/blob/main/imge/description.png)
 
 <!-- Plugin description end -->
 
