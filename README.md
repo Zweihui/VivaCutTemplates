@@ -14,12 +14,11 @@
 - [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
 
 <!-- Plugin description -->
-# VivaCutTemplates
+#Automatically generate template code for VC project
+
 [GitHub](https://github.com/Zweihui/VivaCutTemplates)
 
 [Issues](https://github.com/Zweihui/VivaCutTemplates/issues)
-
-## Automatically generate template code for VivaCut project
 
 
 ## Instructions:
